@@ -7,7 +7,7 @@ https://colab.research.google.com/gist/josephsh97KIM/7a72fbb273f80d5e5b2942344ef
 
 ### Second 
 
-###K-digital응용 프로젝트
+### K-digital응용 프로젝트
 머신러닝을 활용한 스마트폰 불량품 탐지 시스템 
 분류방법 중 K-Means와 Hierarchical을 활용
 
